@@ -1,0 +1,26 @@
+# --- uv / Python Environments ---
+.venv/
+.env
+.env.*
+
+# --- Python Build & Artifacts ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+wheels/
+
+# --- Testing & Coverage ---
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# --- IDEs / Editors ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
