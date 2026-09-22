@@ -1,3 +1,4 @@
+#include <iostream>
 #include <limits>
 #include "input.h"
 
@@ -5,7 +6,7 @@ using std::string;
 using std::cin;
 using std::cout;
 
-int input_float(string msg="Enter a value: "){
+float input_float(std::string msg){
     float val;
 
     while(true){

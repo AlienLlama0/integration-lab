@@ -1,6 +1,8 @@
-#ifdef INPUT_H
+#ifndef INPUT_H
 #define INPUT_H
 
-int input_float();
+#include <string>
+
+float input_float(std::string msg="Enter a value: ");
 
 #endif
