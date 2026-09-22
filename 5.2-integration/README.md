@@ -47,9 +47,9 @@ You may use Python, C++, TypeScript, or any other language you are comfortable w
 
 ---
 
-# Project Roadmap
+# Project Roadma
 
-## 1.2 — Build a Function Notebook
+## 1.1 — Build a Function Notebook
 
 **Difficulty:** Beginner → Beginner+
 
@@ -105,7 +105,7 @@ The goal is to understand how a mathematical formula becomes program logic.
 
 ### Completion Gate
 
-Before moving to 1.3, you should be able to:
+Before moving to 1.2, you should be able to:
 
 - Explain what a mathematical function is.
 - Implement and evaluate predefined functions.
@@ -114,7 +114,7 @@ Before moving to 1.3, you should be able to:
 
 ---
 
-## 1.3 — Function Reconstruction With Initial Conditions
+## 1.2 — Function Reconstruction With Initial Conditions
 
 **Difficulty:** Beginner+
 
@@ -193,7 +193,7 @@ You should be able to:
 
 ---
 
-## 1.4 — Motion Lab v1
+## 1.3 — Motion Lab v1
 
 **Difficulty:** Beginner+
 
@@ -294,7 +294,7 @@ You should be able to:
 
 ---
 
-## 1.5 — Motion Lab v2: Multiple Objects
+## 1.4 — Motion Lab v2: Multiple Objects
 
 **Difficulty:** Intermediate beginner
 
@@ -387,7 +387,7 @@ You should be able to:
 
 ---
 
-## 1.6 — Complete Function Reconstruction System
+## 1.5 — Complete Function Reconstruction System
 
 **Difficulty:** Intermediate beginner
 
